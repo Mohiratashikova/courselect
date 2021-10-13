@@ -12,4 +12,4 @@ Technology used:
 * Firebase 
 * Express
 
-This code is based on the tutorial by [classsed](https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP&ab_channel=Classsed)
+This code is based on the tutorial by [classsed](https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP&ab_channel=Classsed) for a social media app
